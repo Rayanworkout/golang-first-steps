@@ -10,7 +10,7 @@ import (
 
 func main() {
 
-	go getData("https://catfact.ninja/fact")
+	getData("https://catfact.ninja/fact")
 
 }
 
